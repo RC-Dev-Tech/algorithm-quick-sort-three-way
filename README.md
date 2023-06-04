@@ -40,6 +40,7 @@
 ---
 
 ## 參考資料
+* [RUNOOB - 三路排序算法](https://www.runoob.com/data-structures/3way-qiuck-sort.html)<br>
 * [opengenus - 3 Way Partitioning Quick Sort](https://iq.opengenus.org/3-way-partitioning-quick-sort/) <br>
 
 ---
